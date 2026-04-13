@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/tasks/';
+const API_URL = 'projectu4-production.up.railway.app';
 // const API_URL = `${window.location.protocol}//${window.location.hostname}:3000/api/tasks/`;
 
 let toDoList = [];
