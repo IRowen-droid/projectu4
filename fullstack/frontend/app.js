@@ -1,4 +1,4 @@
-const API_URL = `${window.location.protocol}//${window.location.hostname}:3000/api/tasks/`;
+const API_URL = "https://projectu4-production.up.railway.app/api/tasks/";
 
 let toDoList = [];
 let editTaskModal;

@@ -5,7 +5,7 @@ const taskRoutes = require('./routes/taskRoutes');
 const app = express();
 
 app.use(cors({
-    origin: 'http://localhost:8080',
+    origin: 'https://projectu4.vercel.app',
     credentials: true
 }));
 
